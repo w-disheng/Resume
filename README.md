@@ -6,7 +6,7 @@ I enjoy building digital products that either solve problems or entertain people
 I'm self driven, hard working and easy going. I also hold a bachelors degree in economics.
 
 ## Experience:
-### Founders & Coders (2015)
+### Founders & Coders (2021)
 In early 2015 I enrolled as a student at Founders & Coders in London. F&C is a 3 month intensive coding course with a focus on Javascript and Node JS. After graduation, I've worked with commercial clients, mostly building MVP's for startups.
 
 ### Propell (2012 - 2014)
